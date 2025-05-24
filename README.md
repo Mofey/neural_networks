@@ -81,3 +81,9 @@ pip install tensorflow pandas numpy matplotlib
 
 ## 📌 Note
 All code is implemented inside one Jupyter notebook. You can run each section independently to train and test the models.
+
+## 🏷️ Project Origin
+This project is a solution to a [freeCodeCamp](https://www.freecodecamp.org/) deep learning project challenge.
+
+## 📎 License
+This project is licensed under the [MIT License](https://mit-license.org/).
