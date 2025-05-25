@@ -74,8 +74,8 @@ pip install tensorflow pandas numpy matplotlib
 
 ## 📁 File Structure
 ```bash
-📦 project-folder/
-├── classifiers_notebook.ipynb   # The main Jupyter notebook
+📦 neural_networks/
+├── sms_t_c.ipynb   # The main Jupyter notebook
 └── README.md                    # Project description
 ```
 
